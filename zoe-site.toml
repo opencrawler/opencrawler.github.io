@@ -6,7 +6,7 @@ description = "The Open Crawler Initiative is an open governance structure for t
 # - absolute path
 # - remote url
 # so, we must use absolute path at here
-logo = "${__dirname}/images/wuma-dev.png"
+logo = "${__dirname}/images/logo.png"
 version = "alpha"
 primaryColor = "pink"
 baseContentDir = [ "${__dirname}/content" ]
